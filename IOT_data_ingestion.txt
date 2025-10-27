@@ -3,3 +3,5 @@ Hey i am in IOT data file.
 Master is changing the data inside the IOT data ingestion file.
 
 Import bug fix need to be added in the main branch.
+
+Bug is fixed. 
