@@ -2,7 +2,7 @@ Hey i have ingested the data in the text file.
 
 Shubham here, I am making change in the file from the feature branch.
 
-I love to ingest the data.
+I like to ingest the data.
 
 I want to keep ingesting the data
 
